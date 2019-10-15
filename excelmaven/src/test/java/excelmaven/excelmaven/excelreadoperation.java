@@ -48,7 +48,7 @@ public class excelreadoperation {
 
 	k++;
 	}
-	//System.out.println(coloumn);
+	System.out.println(coloumn);
 
 
 	while(rows.hasNext())
